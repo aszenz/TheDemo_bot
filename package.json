@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "aszen",
-  "license": "UNLICENSED",
+  "license": "MIT License",
   "dependencies": {
     "telegraf": "^3.10.1"
   }
